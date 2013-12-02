@@ -14,6 +14,8 @@ shipcod3 - Jay Turla - contributor
 
 httphacker - Nathan LaFollete - contributor
 
+napz - Harris Soleminio - contributor
+
 Directory structure
 -------------------
 
